@@ -10,7 +10,7 @@
         color: white;
         position: absolute;
         top: 25%;
-        left: 40%; 
+        left: 60%; 
     }
     .container h1{
         font-family: 'Heebo', sans-serif;
@@ -34,4 +34,17 @@
         border: none;
         outline:none;
         color: white;
+    }
+    .btn{
+        color: white;
+        cursor: pointer;
+        outline: none; 
+        margin: 12px 0;
+        padding: 10px 21px;
+        border: 2px solid yellow;
+        border-radius: 10px;
+        font-size: 18px;
+        background: none;
+        font-weight: bold;
+        
     }
